@@ -26,6 +26,7 @@ class ProductTableViewCell: UITableViewCell {
         super.setSelected(selected, animated: animated)
 
         // Configure the view for the selected state
+        //don't write anything here, already set up
     }
 
 }
